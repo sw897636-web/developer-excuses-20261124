@@ -1,1 +1,1 @@
-Turns out the 'temporary' hotfix I wrote during the last outage was load-bearing.
+In my defense, it worked on my machine. My machine just happens to be prod.
